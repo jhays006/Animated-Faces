@@ -1,3 +1,6 @@
+# Code Released:
+https://github.com/fsotoc/FaReT
+
 # Animated-Faces
 
 ![anim female happy face](https://github.com/jhays006/Animated-Faces/blob/master/AF_1_happy.gif "Animated Female Happy Face")
